@@ -1,5 +1,5 @@
 # CiaServer
-This is a small helper script which allows you to install CIA files via FBI over global network.
+This is a small helper script which allows you to install CIA files via FBI over global network. DO NOT USE THIS FOR SHEARING CIA FILES ONLINE!
 
 ### Note to windows users
 To use this tool you need Python3 to be installed. Make sure you check `Add to path` setting. If you do not want to add python to PATH
